@@ -1,0 +1,7 @@
+checkpoints*
+log/
+training_data/
+*.pyc
+ljspeech/
+ljspeeh/
+
